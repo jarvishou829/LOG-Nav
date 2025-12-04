@@ -1,4 +1,4 @@
-# LOG-Navi: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning
+# LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning
 
 <p align=“center”> 
 <img src=".\figures\teaser.png" width="600"> 
